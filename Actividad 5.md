@@ -1,4 +1,4 @@
-## Desarrollo de la actividad  
+# Desarrollo de la actividad  
 
 ### Tarjeta 2: Dar feedback a un compañero
 **Situación:**  
