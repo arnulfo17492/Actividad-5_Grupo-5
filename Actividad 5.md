@@ -89,3 +89,7 @@ Respuesta asertiva: "Con la carga actual, entregar el viernes como estaba planea
 * **Aspecto destacado:** El uso explícito de pausas y la neutralidad del lenguaje protegen la seguridad psicológica del grupo y previenen escaladas de conflicto defensivo.
 
 * **Aspecto a mejorar:** Practicar la escucha activa tras emitir el mensaje, abriendo el espacio explícito para que la otra persona exprese sus bloqueos o dificultades sin temor a ser juzgada.
+
+
+
+<img src="https://github.com/user-attachments/assets/26daf884-d89b-4c67-9c2a-e4bfa64dab3c" alt="image" width="1852">
