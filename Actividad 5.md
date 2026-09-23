@@ -2,6 +2,8 @@ Carlos Arnulfo Hidalgo Huertas - 202504198
 
 Miguel Tomás López Nix - 202230781
 
+David Antonio Meza Silva - 202500708
+
 # Desarrollo de la actividad  
 
 ### Tarjeta 2: Dar feedback a un compañero  
