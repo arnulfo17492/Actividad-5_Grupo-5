@@ -1,4 +1,5 @@
 Carlos Arnulfo Hidalgo Huertas - 202504198
+
 Miguel Tomás López Nix - 202230781
 
 # Desarrollo de la actividad  
