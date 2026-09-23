@@ -59,11 +59,11 @@ Respuesta asertiva: "Con la carga actual, entregar el viernes como estaba planea
 
 ## Retroalimentación  
 
-**Se realiza una retroalimentación grupal enfocada en:**
+**Se realiza una retroalimentación grupal enfocada en:**  
 ### Claridad del mensaje ###  
 
-### Tono utilizado ###
+### Tono utilizado ###  
 
-### Nivel de profesionalismo ###
+### Nivel de profesionalismo ###  
 
-### Manejo emocional ###
+### Manejo emocional ###  
