@@ -1,4 +1,5 @@
 Carlos Arnulfo Hidalgo Huertas - 202504198
+Miguel Tomás López Nix - 202230781
 
 # Desarrollo de la actividad  
 
@@ -61,11 +62,29 @@ Respuesta asertiva: "Con la carga actual, entregar el viernes como estaba planea
 
 ## Retroalimentación  
 
-**Se realiza una retroalimentación grupal enfocada en:**  
-### Claridad del mensaje ###  
+* **Evaluación:** El mensaje en cada escenario es directo, específico y sin rodeos. Se identifican claramente las causas del problema (entregable incompleto, sobrecarga de trabajo, desfase de tiempos) y se plantean soluciones concretas.
+
+* **Aspecto destacado:** En el mensaje de feedback se diferencia bien el desempeño individual del impacto colectivo, lo que ayuda a que el interlocutor comprenda la urgencia de corregir los errores.
+
+* **Aspecto a mejorar:** Se pudo especificar los puntos exactos de mejora técnica (por ejemplo, "faltan las secciones 2 y 3" en lugar de "algunas secciones") para evitar interpretaciones subjetivas.
 
 ### Tono utilizado ###  
+* **Evaluación:** Se mantiene un tono constructivo, respetuoso y colaborativo en todo momento. En lugar de usar un lenguaje acusatorio ("lo hiciste mal" o "no te importa el grupo"), se utiliza un enfoque descriptivo ("noté que faltan secciones").
+
+* **Aspecto destacado:** La aplicación de la técnica del sándwich permite suavizar el impacto del mensaje central sin restarle firmeza ni importancia al problema.
+
+* **Aspecto a mejorar:** Cuidar que el tono de empatía no transmita condescendencia ni invalide la seriedad de la falta cuando se requiere corregir un entregable urgente.
 
 ### Nivel de profesionalismo ###  
+* **Evaluación:** Se demuestra madurez en la gestión de conflictos de equipo. La negociación de límites y la negativa asertiva están planteadas con estándares profesionales, priorizando la calidad del producto final y la sustentabilidad de la carga de trabajo.
 
-### Manejo emocional ###  
+* **Aspecto destacado:** Al decir "no" o renegociar fechas, no solo se marca el límite, sino que se asume una postura propositiva mediante alternativas viables (revisión diferida, entregas parciales).
+
+* **Aspecto a mejorar:** Establecer compromisos formalizados con plazos concretos ("nos vemos mañana a las 9:00 AM") para cerrar el ciclo de seguimiento.
+
+### Manejo emocional ###
+* **Evaluación:** Se evidencia una regulación emocional efectiva. La comunicación se realiza desde la ecuanimidad, conteniendo las reacciones de frustración que surgen naturalmente ante los retrasos o la sobrecarga.
+
+* **Aspecto destacado:** El uso explícito de pausas y la neutralidad del lenguaje protegen la seguridad psicológica del grupo y previenen escaladas de conflicto defensivo.
+
+* **Aspecto a mejorar:** Practicar la escucha activa tras emitir el mensaje, abriendo el espacio explícito para que la otra persona exprese sus bloqueos o dificultades sin temor a ser juzgada.
