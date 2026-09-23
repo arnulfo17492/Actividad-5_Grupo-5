@@ -57,4 +57,13 @@ Respuesta asertiva: "Con la carga actual, entregar el viernes como estaba planea
 
 "Sé que le pusiste esfuerzo y con un poco más de tiempo esto va a quedar muy bien. Si querés, te puedo ayudar a repasar el formato o a resolver alguna duda de contenido para que lo terminemos hoy mismo y no se atrase más la entrega del grupo."
 
-## Retroalimentación
+## Retroalimentación  
+
+**Se realiza una retroalimentación grupal enfocada en:**
+### Claridad del mensaje ###  
+
+### Tono utilizado ###
+
+### Nivel de profesionalismo ###
+
+### Manejo emocional ###
