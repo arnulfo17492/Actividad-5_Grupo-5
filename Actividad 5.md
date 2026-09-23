@@ -1,3 +1,5 @@
+Carlos Arnulfo Hidalgo Huertas - 202504198
+
 # Desarrollo de la actividad  
 
 ### Tarjeta 2: Dar feedback a un compañero  
